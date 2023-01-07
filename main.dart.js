@@ -51908,7 +51908,7 @@ J(a,b){var s=null
 return new A.qX(1.23,A.fa(s,A.l0(A.b([new A.iM(2,s),A.fa(s,s,s,s,new A.eE(s,new A.AB(new A.mX("assets/images/profile.jpg",s,s),B.ju,B.jq),s,s,s,s,B.jw),100,s,s,100),new A.iM(1,s),A.eW("Fauzan Arif Sani",s,s,A.aD(b).a2.x,s,s),A.eW("Mobile Developer",s,s,A.hH(s,s,s,s,s,s,s,s,s,s,s,s,s,B.bt,s,1.5,!0,s,s,s,s,s,s,s,s),B.j5,s),new A.iM(2,s)],t.p),B.a3,B.a5),new A.k(4280558640),s,s,s,s,s,s),s)}}
 A.EN.prototype={
 J(a,b){var s=null
-return A.rW(A.abM(A.l0(A.b([A.eW("Skills",s,s,A.aD(b).a2.y,s,s),A.ck(s,20,s),A.abR("images/flutter.png","images/java.png","images/swift.png","Flutter","Java","Swift"),A.ck(s,20,s),A.abR("images/php.png","images/firebase.png","images/git.png","Php","Firebase","Git"),A.ck(s,20,s),new A.AQ(s),A.ck(s,20,s),new A.AU(s),new A.F7(s)],t.p),B.a3,B.a5),new A.bj(20,20,20,20)),1)}}
+return A.rW(A.abM(A.l0(A.b([A.eW("Skills",s,s,A.aD(b).a2.y,s,s),A.ck(s,20,s),A.abR("assets/images/flutter.png","assets/images/java.png","assets/images/swift.png","Flutter","Java","Swift"),A.ck(s,20,s),A.abR("assets/images/php.png","assets/images/firebase.png","assets/images/git.png","Php","Firebase","Git"),A.ck(s,20,s),new A.AQ(s),A.ck(s,20,s),new A.AU(s),new A.F7(s)],t.p),B.a3,B.a5),new A.bj(20,20,20,20)),1)}}
 A.p2.prototype={
 J(a,b){var s=null
 return A.l0(A.b([A.a6r(this.c,B.bs,s,50,50),A.ck(s,10,s),A.eW(this.d,s,s,A.aD(b).a2.y,s,s)],t.p),B.a3,B.a5)}}
